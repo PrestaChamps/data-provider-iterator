@@ -1,0 +1,20 @@
+{
+  "name": "prestachamps/data-provider-iterator",
+  "description": "Iterate over a Yii2 data provider",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zoltan Szanto",
+      "email": "zoli@prestachamps.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.14"
+  },
+  "autoload": {
+    "psr-4": {
+      "PrestaChamps\\": "src/"
+    }
+  }
+}
