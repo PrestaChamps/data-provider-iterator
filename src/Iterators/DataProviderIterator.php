@@ -12,7 +12,7 @@
  * @license   MIT
  */
 
-namespace Prestachamps\Iterators;
+namespace PrestaChamps\Iterators;
 
 use yii\data\Pagination;
 use yii\data\BaseDataProvider;
@@ -20,7 +20,7 @@ use yii\data\BaseDataProvider;
 /**
  * Class DataProviderIterator
  *
- * @package Prestachamps\Iterators
+ * @package PrestaChamps\Iterators
  */
 class DataProviderIterator implements \Iterator, \Countable
 {
